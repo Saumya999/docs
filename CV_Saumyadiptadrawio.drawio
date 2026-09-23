@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" pages="2">
   <diagram name="Page-1" id="dvBeAGPi77Vc80Asv_VJ">
     <mxGraphModel dx="1914" dy="970" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxGeometry height="40" width="224" x="962" y="210.24" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="m2zsiCRKya34C2_C2qEL-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#6c8ebf;gradientColor=#006391;labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Experience&lt;/font&gt;" vertex="1">
+        <mxCell id="m2zsiCRKya34C2_C2qEL-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000, #f4f5fb);strokeColor=#6c8ebf;gradientColor=light-dark(#006391, #fafdff);labelBorderColor=none;" value="&lt;font style=&quot;font-size: 25px; color: light-dark(rgb(18, 18, 18), rgb(18, 18, 18));&quot;&gt;Experience&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="1048" x="260" y="268" as="geometry" />
         </mxCell>
         <mxCell id="m2zsiCRKya34C2_C2qEL-11" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.linkedin;fillColor=#FF0000;gradientColor=#006391;labelBorderColor=none;" value="" vertex="1">
@@ -141,7 +141,7 @@
         <mxCell id="m2zsiCRKya34C2_C2qEL-44" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Always followed Code first approach&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="240" x="282" y="941" as="geometry" />
         </mxCell>
-        <mxCell id="m2zsiCRKya34C2_C2qEL-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#6c8ebf;gradientColor=#006391;labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Education&lt;/font&gt;" vertex="1">
+        <mxCell id="m2zsiCRKya34C2_C2qEL-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000,#FFFFFF);strokeColor=#6c8ebf;gradientColor=light-dark(#006391,#FFFFFF);labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Education&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="1048" x="265" y="1551" as="geometry" />
         </mxCell>
         <mxCell id="m2zsiCRKya34C2_C2qEL-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBorderColor=none;" value="" vertex="1">
@@ -174,13 +174,13 @@
         <mxCell id="m2zsiCRKya34C2_C2qEL-55" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Baranagore ramkrishna Mission Ashrama High School&lt;br&gt;WBBSE Board&lt;/b&gt;&lt;br&gt;Percentage - 84.88% (2001-2011)&lt;br&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="86" width="418" x="878" y="1683" as="geometry" />
         </mxCell>
-        <mxCell id="m2zsiCRKya34C2_C2qEL-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#6c8ebf;gradientColor=#006391;labelBorderColor=none;" value="&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;AI Initiatives&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="m2zsiCRKya34C2_C2qEL-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000, #f9f6f6);strokeColor=#6c8ebf;gradientColor=light-dark(#FF0000,#FFFFFF);labelBorderColor=none;" value="&lt;font&gt;&lt;span style=&quot;font-size: 25px; color: light-dark(rgb(18, 18, 18), rgb(18, 18, 18));&quot;&gt;AI Initiatives&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="1048" x="264" y="1805" as="geometry" />
         </mxCell>
         <mxCell id="m2zsiCRKya34C2_C2qEL-57" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" value="&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: bold; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;AI Automation on Daily Monotony&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1. Vulnerability analysis and reporting using GenAI&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.Github Repository tracing , understand the commit messages using LLM langchain, OpenAI APIs and document in confluence for last 10 deployments.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;3.MCP integration with daily used IDEs and JIRA and other products to avoid developer context switching&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;4.Log analysis and automated chat reply for Production grade Issue, chatbot as a first line of defence using GenAI.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="228" width="1062" x="254" y="1852" as="geometry" />
         </mxCell>
-        <mxCell id="m2zsiCRKya34C2_C2qEL-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#6c8ebf;gradientColor=#006391;labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Research&lt;/font&gt;" vertex="1">
+        <mxCell id="m2zsiCRKya34C2_C2qEL-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000,#FFFFFF);strokeColor=#6c8ebf;gradientColor=light-dark(#006391,#FFFFFF);labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Research&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="1048" x="264" y="2107" as="geometry" />
         </mxCell>
         <mxCell id="m2zsiCRKya34C2_C2qEL-59" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;An Improved Non-Local Means Denoising Technique for Brain MRI&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
@@ -197,10 +197,10 @@
         <mxCell id="m2zsiCRKya34C2_C2qEL-62" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;I have developed a model using residual learning based technique. Trained our model with simulated dataset provided in brainweb&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;website and tested on Simulated as well as originally collected medical dataset from hospitals.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;In peer review: IEEE Signal Processing Letter Journal&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="108" width="832" x="314" y="2253" as="geometry" />
         </mxCell>
-        <mxCell id="m2zsiCRKya34C2_C2qEL-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#6c8ebf;gradientColor=#006391;labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Skills&lt;/font&gt;" vertex="1">
+        <mxCell id="m2zsiCRKya34C2_C2qEL-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000,#FFFFFF);strokeColor=#6c8ebf;gradientColor=light-dark(#006391,#FFFFFF);labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Skills&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="522" x="791" y="2355" as="geometry" />
         </mxCell>
-        <mxCell id="m2zsiCRKya34C2_C2qEL-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#6c8ebf;gradientColor=#006391;labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Achievements&lt;/font&gt;" vertex="1">
+        <mxCell id="m2zsiCRKya34C2_C2qEL-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000, #ffffff);strokeColor=#6c8ebf;gradientColor=light-dark(#FF0000,#FFFFFF);labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Achievements&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="522" x="265" y="2355" as="geometry" />
         </mxCell>
         <mxCell id="m2zsiCRKya34C2_C2qEL-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#FFFFFF;labelBorderColor=none;" value="&lt;ul style=&quot;font-size: 19px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Java (8, 11, 17) , Kotlin&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Springboot&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Micronaut&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Webflux&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Kafka&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Junit&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jenkins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jmeter / K6 / Gatling (Performance)&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ubuntu Servers&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Chef automation&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
@@ -209,7 +209,7 @@
         <mxCell id="m2zsiCRKya34C2_C2qEL-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#FFFFFF;labelBorderColor=none;" value="&lt;ul style=&quot;font-size: 18px;&quot;&gt;&lt;li style=&quot;&quot;&gt;Scored 99.02 percentile in GATE 2017&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Lead College Team twice in College level football Tournament&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="92" width="498" x="270" y="2401" as="geometry" />
         </mxCell>
-        <mxCell id="m2zsiCRKya34C2_C2qEL-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#6c8ebf;gradientColor=#006391;labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Interests&lt;/font&gt;" vertex="1">
+        <mxCell id="m2zsiCRKya34C2_C2qEL-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000, #ffffff);strokeColor=#6c8ebf;gradientColor=light-dark(#FF0000,#FFFFFF);labelBorderColor=none;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;Interests&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="522" x="265" y="2487" as="geometry" />
         </mxCell>
         <mxCell id="m2zsiCRKya34C2_C2qEL-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#FFFFFF;labelBorderColor=none;" value="&lt;ul style=&quot;font-size: 18px;&quot;&gt;&lt;li style=&quot;&quot;&gt;Competitive Coding, DSA&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Architectural Designs&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Fintech, Retail, Banking&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Gen AI, LLM, LangChain, LangGraph, MCP&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
@@ -239,6 +239,14 @@
         <mxCell id="GFSnT5UhXPfnP-yC2Iae-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBorderColor=none;" value="- Serving multiple country domain including SEPA markets as well as US, Mexico and Canada markets too." vertex="1">
           <mxGeometry height="30" width="606" x="294" y="558" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0ofyfT_lSU3x137iFEn-" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
